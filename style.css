@@ -1,0 +1,94 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+//--for section 1--//
+.a {
+    font-size: 50px;
+}
+
+.b {
+    font-size: 50px;
+}
+
+.peter {
+    color: orange;
+    font-weight: 800;
+}
+
+.hp {
+    display: flex;
+    background-image: url(photo/top-banner.png);
+    background-repeat: no-repeat;
+    padding-bottom: 50px;
+}
+
+.d1 {
+    width: 50%;
+    padding-left: 50px;
+    padding-right: 20px;
+}
+
+.d2 {
+    width: 50%;
+    padding-left: 100px;
+}
+
+.btn1 {
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: aliceblue;
+
+}
+
+//-- section1 close--//
+.a2 {
+    font-size: 50px;
+}
+
+.b2 {
+    font-size: 50px;
+}
+
+.peter2 {
+    color: orange;
+    font-weight: 800;
+}
+
+.hp2 {
+    display: flex;
+    background-image: url(photo/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    padding-top: 50px;
+}
+
+.d12 {
+    width: 50%;
+    padding-left: 50px;
+    padding-right: 20px;
+}
+
+.d22 {
+    width: 50%;
+    padding-left: 100px;
+
+}
+
+.d222 {
+    width: 50%;
+    padding-left: 20px;
+
+}
+
+.btn12 {
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: aliceblue;
+
+}
